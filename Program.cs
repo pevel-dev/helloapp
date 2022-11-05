@@ -13,5 +13,10 @@ namespace helloapp_black
         {
             Console.WriteLine("Hello from white, Ivan Domashnikh!!");
         }
+        
+        public static void greetBlack()
+        {
+            Console.WriteLine("Hello from black, Ivan Domashnikh!!");
+        }
     }
 }
